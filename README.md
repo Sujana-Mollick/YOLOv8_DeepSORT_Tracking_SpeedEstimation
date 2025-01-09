@@ -52,10 +52,12 @@ You can also run this project on Google Colab. Click the link below to open the 
 
 ## Results
 ### Confusion Matrix
-![Confusion Matrix](runs/detect/train3/confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/4a99a6d2-96f4-4b8b-9311-fb87c5e21c8e)
+
 
 ### Sample Predictions
-![Sample Prediction](runs/detect/train3/val_batch0_pred.jpg)
+![image](https://github.com/user-attachments/assets/32d2d322-31aa-4ec0-8eb5-a970bfd95651)
+
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
